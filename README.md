@@ -1,6 +1,6 @@
 # Multi-Domain News Article Classification: Leveraging Machine Learning for Enhanced Content Categorization
 
-<img src="https://media.licdn.com/dms/image/D4D12AQGDAY7AEsNTUg/article-cover_image-shrink_720_1280/0/1694556034677?e=2147483647&v=beta&t=lULf05NC1l4dmP934-tKtSz8xdBxjo7xV-_UdTN9jEw">
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20230910/pngtree-newspaper-image_13202670.png">
 
 ## Table of Content:
 * **1.** Project Overview
@@ -88,10 +88,11 @@ The following machine learning models were used:
 
 ## 12. Team Members
 
-'|:-----_-----|':\
-'|:-----_-----|':
-'|:-----_-----\:
-'|:-----_-----|':
-'|:-----_-----|':
-'|:-----_-----|':
-'|:-----_-----|':
+**1.** Obed Segwate Mabowa/ mabowaobed98@gmail.com
+**2.** Ndivhuwo Justin Tshifaro/ njtshifaro@gmail.com
+**3.** Sinenkosi Sikhakhane/ sikhakhanesnenkosi@gmail.com
+**4.** Ntokozo Sbusiso Hadebe/ bighope95@gmail.com
+**6.** Kentse Mphahlele/ kentsemphahlele@gmail.com
+
+##  Conclusion
+This project was a success in achieving the goal of using machine learning to categorize news articles into their respective domains. Based on the results of the evaluation, Naive Bayes model demonstrated the highest accuracy and F1 score which makes this model suitable for this task. The solid classification model constructed in this project can improve the existing content management systems, facilitate user interactions of news, and empower advertisers’ targeting.
