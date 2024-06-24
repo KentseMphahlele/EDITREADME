@@ -88,12 +88,10 @@ The following machine learning models were used:
 
 ## 12. Team Members
 
-|:NAME--------------------|----EMAIL----------------|
-|:-------Obed Segwate Mabowa-------------|-------mabowaobed98@gmail.com-------------|
-|:-------Ndivhuwo Justin Tshifaro-------------|--------njtshifaro@gmail.com------------|
-|:------Sinenkosi Sikhakhane--------------|-------sikhakhanesnenkosi@gmail.com-------------|
-|:------Ntokozo Sbusiso Hadebe--------------|--------bighope95@gmail.com------------|
-|:-----Kentse Mphahlele---------------|-----Kentsemphahlele@gmail.com---------------|
-|:--------------------|--------------------|
-
-
+'|:-----_-----|':\
+'|:-----_-----|':
+'|:-----_-----\:
+'|:-----_-----|':
+'|:-----_-----|':
+'|:-----_-----|':
+'|:-----_-----|':
